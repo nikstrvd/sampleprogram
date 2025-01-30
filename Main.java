@@ -6,6 +6,6 @@ public class Main{
         System.out.println("This is for testing purpose");
         System.out.println("Configure to jenkins from VSCode");
         System.out.println(new Date());
-        System.out.println("Jenkins Integration Testing 1");
+        System.out.println("Jenkins Integration Testing Tutorials");
     }
 }
