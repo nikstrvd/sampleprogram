@@ -1,3 +1,4 @@
+import java.sql.Time;
 import java.util.Date;
 
 public class Main{
@@ -8,5 +9,6 @@ public class Main{
         System.out.println(new Date());
         System.out.println("Jenkins Integration Testing Tutorials");
         System.out.println("Added one more file");
+        System.out.println(new Time(0));
     }
 }
