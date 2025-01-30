@@ -10,5 +10,7 @@ public class Main{
         System.out.println("Jenkins Integration Testing Tutorials");
         System.out.println("Added one more file");
         System.out.println(new Time(0));
+        student Student = new student();
+        Student.sayHello();
     }
 }
